@@ -1,0 +1,12 @@
+// se crea un {OBJETO}
+{
+    // se crean los presets [ARREGLO] de babel
+    "presets": [
+        "@babel/preset-env"
+    ],
+    // seguido los plugins [ARREGLO] 
+    "plugins": [
+        "@babel/plugin-transform-runtime"
+    ]
+}
+// se cierra  *siguiente paso en el archivo webpacl.config.js*

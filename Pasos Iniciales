@@ -1,0 +1,18 @@
+{   Primer paso para empaquetar con webpack 
+        - install webpack webpack-cli -D
+    
+        trae consigo 2 modos 
+            - npx webpack --mode production : esta empaqueta todo el proyecto para produccion 
+
+            - npx webpack --mode development : esta pone el proyecto en modo desarollo 
+
+    segundo paso crear archivo 
+    ! webpack.config.js !
+    en la raiz del proyecto en este archivo es donde iran todas las configuraciones del proyecto 
+
+
+} 
+// el documento sigue en el archivo webpack.config.js de este proyecto //
+
+// se tienen que crear 2 archivos .config y .config.dev
+
